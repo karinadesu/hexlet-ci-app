@@ -8,6 +8,9 @@ Starting boilerplate of [Strapi](https://strapi.io/) application
 * NPM >= 6.x
 * Make
 
+![status](https://github.com/karinadesu/hexlet-my-first-workflow/actions/workflows/.github/workflows/makefile.yml/badge.svg
+)
+
 ## Using
 
 ```sh
